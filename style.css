@@ -1,0 +1,11 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+.link{
+    background: whitesmoke;
+    border-radius: 15px;
+    width: 85px;
+    margin-top: 20px;
+}
